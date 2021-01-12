@@ -7,6 +7,10 @@ public class Car {
     modelName = name;
     System.out.println("I m in object myCar");
   }
+  public Car(String name) {
+	    modelName = name;
+	    System.out.println("I m in object myCar");
+  }
 
      public static void main(String[] args) {
 	 
